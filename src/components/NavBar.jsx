@@ -47,11 +47,11 @@ export const NavBar = () => {
                 <Nav.Link className={style.nav_texto} href="#sobre">
                   Sobre
                 </Nav.Link>
-                <Nav.Link className={style.nav_texto} href="#habilidades">
-                  Habilidades
-                </Nav.Link>
                 <Nav.Link className={style.nav_texto} href="#projetos">
                   Projetos
+                </Nav.Link>
+                <Nav.Link className={style.nav_texto} href="#habilidades">
+                  Habilidades
                 </Nav.Link>
                 <Nav.Link className={style.nav_texto} href="#contato">
                   Contato
